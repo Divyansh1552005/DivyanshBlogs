@@ -1,4 +1,4 @@
-# divyanshblogs
+# Divyanshblogs
 
 This repository contains the source content for my personal blog published on Hashnode.
 
@@ -9,7 +9,7 @@ The goal of this repository is to maintain version control, backups, and a clean
 
 ## Blog
 
-📖 Read the published articles here:  
+Read the published articles here:  
 https://divyanshblogs.hashnode.dev
 
 ---
